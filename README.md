@@ -1,22 +1,10 @@
-# Assignment 1: Welcome to App Lab
-Due Wednesday, September 11 
-
-# Instructions
-1. Clone this repository to your local computer (hint: use the terminal and the `git clone` command).
-2. Open the `welcome-to-app-lab-yourgithubusername` folder in vscode.
-3. Open the the file `README.md`.
-4. Replace the **About Me** section with your own. I've included my own as a template.
-5. Delete the **Assignment** and **Instructions** sections.
-7. `git push` your changed file - this is your assignment submission (don't forget a `commit` message)!
- 
-Be sure and use [markdown](https://medium.com/applab-fall-2019/homework-1-github-bootcamp-bb21077a878b) to help format your document. You can study this document and how it appears on Github to learn more.
-
 # About Me
-Hello! My name is Christian and I live in Shanghai, China. I spend time exploring the intersections of management, creativity, art and technology. I have a lot of ideas and I make a lot of stuff: messaging apps, cryptocurrency hardware, virtual reality games and educational content. I teach students at NYU Shanghai with the goal of helping them understand the intersection of ideas and realities.
+Hi! My name is Patricia Wier and I currently live in Shanghai, China. I am originally from Houston, Texas. I have studied and lived in Shanghai for 2 years, Prague for a semester, and New York for a semester. I am a senior at NYU Shanghai and my major is Interactive Media and Business. I feel I have a stronger grasp of the Business side of my major but I am also interested in expanding my skills more into the interactive media side. Some of my general interests include film, the power of media, women, politics, understanding the minds of others through debate, socially responsible business practices, and personal growth.
 
-I'm a founding member of NYU Shanghai, China's first Sino-American university. I was on the ground floor putting in the plumbing, and was initially responsible for planning and operations to establish the school in Shanghai. Currently I'm teaching and researching full time, while continuing to build interesting products and art in my spare time.
+Academically, I have taken an array of business classes and film classes with a touch of what I consider tech classes. Some of my favorite classes include Gender and Technology in Media, Intro to Marketing, and Beyond Nature. Outside of the classroom, I was a journalist with the PragueCast and an assistant at Nancy Bishop Casting. As a senior, I am currently on an adventure trying to find what career path to take after graduation.
 
-My diverse skill set lends itself well to small, nimble teams. I pride myself on my ability to take risks to create new things. I work efficiently, play multiple roles and speak many languages (programming, business, Chinese). I know enough about most things to sound like an expert on technology, project management, software engineering, digital prototyping, corporate and venture finance, capital markets, macroeconomics and the Chinese innovation ecosystem.
+I would say my strongest concrete skills would be my argumentative writing skills. I feel very confident in my ability to write a solid research paper. I consider myself very good at research in general, and being able to analyze and condense that research. I also consider myself very good at arguing/debating in general.
+
 
 
 
