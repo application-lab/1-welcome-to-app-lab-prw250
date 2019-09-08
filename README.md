@@ -4,8 +4,3 @@ Hi! My name is Patricia Wier and I currently live in Shanghai, China. I am origi
 Academically, I have taken an array of business classes and film classes with a touch of what I consider tech classes. Some of my favorite classes include Gender and Technology in Media, Intro to Marketing, and Beyond Nature. Outside of the classroom, I was a journalist with the PragueCast and an assistant at Nancy Bishop Casting. As a senior, I am currently on an adventure trying to find what career path to take after graduation.
 
 I would say my strongest concrete skills would be my argumentative writing skills. I feel very confident in my ability to write a solid research paper. I consider myself very good at research in general, and being able to analyze and condense that research. I also consider myself very good at arguing/debating in general.
-
-
-
-
-
